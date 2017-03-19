@@ -1,0 +1,11 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:shang-packages/types.git",
+    "type": "git"
+  },
+  "author": "xinshangshangxin <xinshangshangxin@gmail.com>",
+  "license": "MIT"
+}
